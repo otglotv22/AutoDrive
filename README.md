@@ -1,5 +1,7 @@
 # AutoDrive
 
+![Screenshot 2024-04-12 at 6 59 58 pm](https://github.com/otglotv22/AutoDrive/assets/143334183/96bc7689-6de7-41a4-8d10-17888c04446b)
+
 ### **Overview:** 🌎
 This Chrome extension simplifies your workflow by automatically redirecting PDF files from SharePoint (OneDrive) to be viewed directly in your browser's built-in PDF viewer. 
 
