@@ -26,7 +26,7 @@ This release focuses on enhancing your productivity by saving time and reducing 
 ### **Installation Instructions:** 🔨
 
 - **Step 1:** Download the Extension
-Download the extension files from our GitHub repository. Look for the latest release and download the ZIP file.
+Download the extension file from the GitHub repository. Look for the latest release and download the ZIP file.
 
 - **Step 2:** Unpack the Extension
 Once downloaded, extract the ZIP file to a folder on your computer. Remember the location as you will need to access this folder during the installation process.
