@@ -32,7 +32,8 @@ Download the extension file from the GitHub repository. Look for the latest rele
 
 ![Picture 1](https://github.com/otglotv22/AutoDrive/assets/143334183/050fbb26-92f9-47db-82f6-2e74534743c7)
 
-![Picture 2](https://github.com/otglotv22/AutoDrive/assets/143334183/28378299-8a1a-492a-a13c-36152b3dc64b)
+
+![Picture 3](https://github.com/otglotv22/AutoDrive/assets/143334183/5282b441-142d-4c64-824e-8879ed9f9d1a)
 
 
 - **Step 2:** Unpack the Extension
