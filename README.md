@@ -39,6 +39,11 @@ Download the extension file from the GitHub repository. Look for the latest rele
 - **Step 2:** Unpack the Extension
 Once downloaded, extract the ZIP file to a folder on your computer. Remember the location as you will need to access this folder during the installation process.
 
+![Picture 4](https://github.com/otglotv22/AutoDrive/assets/143334183/3ee0c913-aa12-4c8c-9563-b84a295346b2)
+
+![Picture 5](https://github.com/otglotv22/AutoDrive/assets/143334183/7879b5e9-990b-4f6d-8dae-f4e3613f587b)
+
+
 - **Step 3:** Enable Developer Mode in Chrome
 Open Google Chrome.
 Navigate to the Extensions page by typing chrome://extensions/ in the address bar or by accessing it via the menu (three dots in the upper right corner of the browser -> More tools -> Extensions).
