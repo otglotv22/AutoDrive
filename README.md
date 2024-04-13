@@ -50,6 +50,12 @@ Open Google Chrome.
 Navigate to the Extensions page by typing chrome://extensions/ in the address bar or by accessing it via the menu (three dots in the upper right corner of the browser -> More tools -> Extensions).
 Enable Developer Mode by toggling the switch in the top right corner of the Extensions page.
 
+![Picture 6](https://github.com/otglotv22/AutoDrive/assets/143334183/cf12eae4-02a4-443d-83d2-6d9c9d07bc86)
+
+
+![Picture 7](https://github.com/otglotv22/AutoDrive/assets/143334183/713ac514-5726-4f74-80b9-2029b5909497)
+
+
 - **Step 4:** Load the Extension
 Click on the "Load unpacked" button that appears after you enable Developer Mode.
 Navigate to the folder where you unpacked the extension files.
