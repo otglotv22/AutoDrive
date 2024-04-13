@@ -78,5 +78,7 @@ After loading the extension, you should see the "Automatic SharePoint PDF Redire
 - **Step 6:** Usage
 Simply navigate to any SharePoint (OneDrive) PDF link. The extension will automatically redirect the PDF file to open in your browser’s default PDF viewer without any additional input needed.
 
+![Picture 11](https://github.com/otglotv22/AutoDrive/assets/143334183/99723fa0-2d01-4960-b639-95e702e93775)
+
 
 I appreciate your feedback and suggestions. Please let me know how this extension has helped in your workflow or any additional features you would like to see 😄 
