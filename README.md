@@ -30,6 +30,8 @@ This release focuses on enhancing your productivity by saving time and reducing 
 - **Step 1:** Download the Extension
 Download the extension file from the GitHub repository. Look for the latest release and download the ZIP file.
 
+![Picture 1](https://github.com/otglotv22/AutoDrive/assets/143334183/050fbb26-92f9-47db-82f6-2e74534743c7)
+
 - **Step 2:** Unpack the Extension
 Once downloaded, extract the ZIP file to a folder on your computer. Remember the location as you will need to access this folder during the installation process.
 
