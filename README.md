@@ -61,6 +61,13 @@ Click on the "Load unpacked" button that appears after you enable Developer Mode
 Navigate to the folder where you unpacked the extension files.
 Select the folder and click 'Open'. Chrome will now install the extension.
 
+
+![Picture 8](https://github.com/otglotv22/AutoDrive/assets/143334183/5161c9ff-e53a-4943-9453-0848e037fd89)
+
+
+![Picture 9](https://github.com/otglotv22/AutoDrive/assets/143334183/96effeb4-e65d-469d-bd9e-c167a24fea91)
+
+
 - **Step 5:** Verify Installation
 After loading the extension, you should see the "Automatic SharePoint PDF Redirector" icon in your Chrome toolbar, indicating that the extension is active and ready to use.
 
