@@ -39,7 +39,8 @@ Download the extension file from the GitHub repository. Look for the latest rele
 - **Step 2:** Unpack the Extension
 Once downloaded, extract the ZIP file to a folder on your computer. Remember the location as you will need to access this folder during the installation process.
 
-![Picture 4](https://github.com/otglotv22/AutoDrive/assets/143334183/3ee0c913-aa12-4c8c-9563-b84a295346b2)
+![Picture 4](https://github.com/otglotv22/AutoDrive/assets/143334183/633d1f71-1aa6-40bf-bc78-584fbc6a40e2)
+
 
 ![Picture 5](https://github.com/otglotv22/AutoDrive/assets/143334183/7879b5e9-990b-4f6d-8dae-f4e3613f587b)
 
