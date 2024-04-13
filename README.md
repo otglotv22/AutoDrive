@@ -69,7 +69,7 @@ Select the folder and click 'Open'. Chrome will now install the extension.
 
 
 - **Step 5:** Verify Installation
-After loading the extension, you should see the "Automatic SharePoint PDF Redirector" icon in your Chrome toolbar, indicating that the extension is active and ready to use. Ignore where it says 'Error'.
+After loading the extension, you should see the "Automatic SharePoint PDF Redirector" icon in your Chrome toolbar, indicating that the extension is active and ready to use. Ignore where it says 'Errors'.
 
 ![Picture 10](https://github.com/otglotv22/AutoDrive/assets/143334183/881af8ea-6ba0-483f-9a0d-848bc9526ef4)
 
